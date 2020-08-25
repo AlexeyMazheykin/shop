@@ -1,50 +1,64 @@
 [
-    [{
-        "product-name": "Black Genuine Leather Bags",
-        "price": "23.20",
-        "image" : "./image/bag1.png",
-        "favourite-count": "253",
-        "comments-count": "120"
-    }],
+    [
+        {
+            "product-name": "Black Genuine Leather Bags",
+            "price": "23.20",
+            "image": "./image/bag1.png",
+            "favourite-count": "253",
+            "comments-count": "120"
+        },
 
-    [{
-        "product-name": "Fashion Red Leather Bags",
-        "price": "20.16",
-        "image" : "./image/bag2.png",
-        "favourite-count": "253",
-        "comments-count": "120"
-    }],
-
-    [{
-        "product-name": "Fashion Genuine Leather Bags",
-        "price": "30.14",
-        "image" : "./image/bag3.png",
-        "favourite-count": "253",
-        "comments-count": "120"
-    }],
-    
-    [{
-        "product-name": "Simply Leather Bags",
-        "price": "15.20",
-        "image" : "./image/bag4.png",
-        "favourite-count": "253",
-        "comments-count": "120"
-    }],
-    
-    [{
-        "product-name": "New Fashion Leather Bags",
-        "price": "25.20",
-        "image" : "./image/bag5.png",
-        "favourite-count": "253",
-        "comments-count": "120"
-    }],
-
-    [{
-        "product-name": "Single Hand Models Bags",
-        "price": "17.60",
-        "image" : "./image/bag6.png",
-        "favourite-count": "253",
-        "comments-count": "120"
-    }]
-
+        {
+            "product-name": "Fashion Red Leather Bags",
+            "price": "20.16",
+            "image": "./image/bag2.png",
+            "favourite-count": "253",
+            "comments-count": "120"
+        }
+    ],
+    [
+        {
+            "product-name": "Fashion Red Leather Bags",
+            "price": "20.16",
+            "image": "./image/bag2.png",
+            "favourite-count": "253",
+            "comments-count": "120"
+        }
+    ],
+    [
+        {
+            "product-name": "Fashion Genuine Leather Bags",
+            "price": "30.14",
+            "image": "./image/bag3.png",
+            "favourite-count": "253",
+            "comments-count": "120"
+        }
+    ],
+    [
+        {
+            "product-name": "Simply Leather Bags",
+            "price": "15.20",
+            "image": "./image/bag4.png",
+            "favourite-count": "253",
+            "comments-count": "120"
+        }
+    ],
+    [
+        {
+            "product-name": "New Fashion Leather Bags",
+            "price": "25.20",
+            "image": "./image/bag5.png",
+            "favourite-count": "253",
+            "comments-count": "120"
+        }
+    ],
+    [
+        {
+            "product-name": "Single Hand Models Bags",
+            "price": "17.60",
+            "image": "./image/bag6.png",
+            "favourite-count": "253",
+            "comments-count": "120"
+        }
+    ]
 ]

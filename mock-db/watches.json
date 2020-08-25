@@ -4,10 +4,20 @@
             "product-name": "Fashion Genuine Chain Watch",
             "price": "25.36",
             "image" : "./image/watch1.png",
-            "favourite-count": "253",
-            "comments-count": "120"
+            "favourite-count": "128",
+            "comments-count": "68"
         },
 
+        {
+            "product-name": "Fashion Genuine Chain Watch",
+            "price": "35.24",
+            "image" : "./image/watch15.png",
+            "favourite-count": "79",
+            "comments-count": "132"
+        }
+    ],
+
+    [
         {
             "product-name": "Fashion Silver Chain Watch",
             "price": "35.24",
@@ -17,52 +27,104 @@
         },
 
         {
-            "product-name": "Fashion Chain Watch",
-            "price": "23.12",
-            "image" : "./image/watch3.png",
+            "product-name": "Fashion Silver Chain Watch",
+            "price": "40.10",
+            "image" : "./image/watch11.png",
+            "favourite-count": "253",
+            "comments-count": "120"
+        },
+
+        {
+            "product-name": "Fashion Silver Chain Watch",
+            "price": "44.99",
+            "image" : "./image/watch12.png",
             "favourite-count": "253",
             "comments-count": "120"
         }
     ],
 
-    [{
-        "product-name": "Fashion Silver Chain Watch",
-        "price": "35.24",
-        "image" : "./image/watch2.png",
-        "favourite-count": "253",
-        "comments-count": "120"
-    }],
-
-    [{
-        "product-name": "Fashion Chain Watch",
-        "price": "23.12",
-        "image" : "./image/watch3.png",
-        "favourite-count": "253",
-        "comments-count": "120"
-    }],
+    [
+        {
+            "product-name": "Fashion Chain Watch",
+            "price": "23.12",
+            "image" : "./image/watch3.png",
+            "favourite-count": "135",
+            "comments-count": "23"
+        },
+        {
+            "product-name": "Fashion Chain Watch",
+            "price": "39.99",
+            "image" : "./image/watch14.png",
+            "favourite-count": "215",
+            "comments-count": "89"
+        }
+    ],
     
-    [{
-        "product-name": "Fashion Black Chain Watch",
-        "price": "42.32",
-        "image" : "./image/watch4.png",
-        "favourite-count": "253",
-        "comments-count": "120"
-    }],
+    [
+        {
+            "product-name": "Fashion Black Chain Watch",
+            "price": "42.32",
+            "image" : "./image/watch4.png",
+            "favourite-count": "105",
+            "comments-count": "67"
+        },
+        {
+            "product-name": "Fashion Black Chain Watch",
+            "price": "42.32",
+            "image" : "./image/watch7.png",
+            "favourite-count": "105",
+            "comments-count": "67"
+        },
+        {
+            "product-name": "Fashion Black Chain Watch",
+            "price": "42.32",
+            "image" : "./image/watch10.png",
+            "favourite-count": "105",
+            "comments-count": "67"
+        }
+    ],
     
-    [{
-        "product-name": "Fashion Lether Watch",
-        "price": "15.20",
-        "image" : "./image/watch5.png",
-        "favourite-count": "253",
-        "comments-count": "120"
-    }],
+    [
+        {
+            "product-name": "Fashion Lether Watch",
+            "price": "15.20",
+            "image" : "./image/watch5.png",
+            "favourite-count": "270",
+            "comments-count": "140"
+        },
 
-    [{
-        "product-name": "Fashion Forign Watch",
-        "price": "36.12",
-        "image" : "./image/watch6.png",
-        "favourite-count": "253",
-        "comments-count": "120"
-    }]
+        {
+            "product-name": "Fashion Lether Watch",
+            "price": "20.39",
+            "image" : "./image/watch8.png",
+            "favourite-count": "128",
+            "comments-count": "49"
+        },
+        {
+            "product-name": "Fashion Lether Watch",
+            "price": "35.90",
+            "image" : "./image/watch13.png",
+            "favourite-count": "201",
+            "comments-count": "78"
+        }
+    ],
+
+    [
+        {
+            "product-name": "Fashion Forign Watch",
+            "price": "36.12",
+            "image" : "./image/watch6.png",
+            "favourite-count": "57",
+            "comments-count": "23"
+        },
+
+        {
+            "product-name": "Fashion Forign Watch",
+            "price": "45.17",
+            "image" : "./image/watch9.png",
+            "favourite-count": "63",
+            "comments-count": "39"
+        }
+    ]
 
 ]
