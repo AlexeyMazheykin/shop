@@ -28,7 +28,7 @@
     [{
         "product-name": "Fashion Silver Chain Watch",
         "price": "35.24",
-        "image" : "../image/watch2.png",
+        "image" : "./image/watch2.png",
         "favourite-count": "253",
         "comments-count": "120"
     }],
