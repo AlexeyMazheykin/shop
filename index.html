@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ru_RU">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js"></script>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/card.js"></script>
+    <title>Shop</title>
+</head>
+
+<body>
+    <header class="header">
+        <div class="wrapper">
+            <div class="header__wrapper">
+                <p class="logo">
+                    Big Shop
+                </p>
+                <nav class="header__nav">
+                    <form class="search__form">
+                        <input type="text" class="search__form-field" name="user-like-to-search" placeholder="Search">
+                        <ul class="search__list">
+                            <li class="search__list-item">Collection</li>
+                        </ul>
+                    </form>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <main class="main">
+        <section class="intro">
+            <div class="wrapper">
+                <div class="intro__wrapper">
+                    <div class="intro__content">
+                        <h1 class="intro__title">
+                            Summer<br><span>Collection</span>
+                        </h1>
+                        <p class="intro__subtitle">
+                            <span>25% </span>off
+                        </p>
+                        <button class="intro__button">
+                            Details
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <article class="store">
+            <section class="arrivals">
+                <h2 class="arrivals__store-title">
+                    Trendy Arrivals
+                </h2>
+                <div class="cards__container" type="bags">
+                </div>
+            </section>
+            <section class="our__brands">
+                <div class="wrapper">
+                    <div class="our__brands-container">
+                        <div class="our__barnds-text">
+                            <h2 class="our__brands-title">Our Brands</h2>
+                            <h3 class="our__brands-sub">
+                                Small Shoes 2017 new Arrivals mini Messenger <span>Classic Shoes</span>
+                            </h3>
+                            <p class="our__brand-desc">
+                                In porttitor elit ac mi placerat hendrerit. Morbi accumsan, erat in ullamcorper
+                                consectetur,
+                                nisi erat efficitur eros, sagittis tristique odio turpis vitae dui. Vestibulum gravida
+                                est ut
+                                erat pretium, non pretium diam feugiat. Integer egestas suscipit lorem ac fermentum.
+                                Integer at
+                                mauris vitae justo sagittis dapibus. Pellentesque sit amet nisl vitae orci vehicula
+                                faucibus.
+                                Fusce et lat, feugiat est.
+                            </p>
+                        </div>
+                        <div class="our__brands-pic">
+                            <img src="./image/tel.png" alt="iphone" class="our__brands-thumb">
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="showcase">
+                <div class="wrapper">
+                    <h2 class="showcase__title">
+                        Our Showcase
+                    </h2>
+                    <div class="showcase__nav">
+                        <ul class="showcase__nav-list">
+                            <li class="showcase__item">Fashion</li>
+                            <li class="showcase__item">Furnitures</li>
+                            <li class="showcase__item showcase__item-selected">Watches</li>
+                            <li class="showcase__item">Mobile</li>
+                            <li class="showcase__item">Close</li>
+                            <li class="showcase__item">Toys</li>
+                        </ul>
+                    </div>
+                    <div class="cards__container" type="watches">
+
+                </div>
+            </section>
+            <section class="newsletter">
+                <h2 class="newsletter__title">
+                    Newsletter
+                </h2>
+                <form id="newsletter" class="newsletter__form">
+                    <input type="text" form="newsletter" class="newsletter__input"
+                        placeholder="Enter your email address..">
+                    <button type="submit" form="newsletter" class="newsletter__btn">Submit</button>
+                </form>
+            </section>
+        </article>
+    </main>
+    <footer class="footer">
+        <h2 class="bigshop__title">
+            Big Shop
+        </h2>
+        <nav class="footer__nav">
+            <ul class="footer__nav-list">
+                <li class="footer__nav-item">Man</li>
+                <li class="footer__nav-item">Woman</li>
+                <li class="footer__nav-item">Kids</li>
+                <li class="footer__nav-item">Bags</li>
+                <li class="footer__nav-item">Watches</li>
+                <li class="footer__nav-item">Toys</li>
+            </ul>
+        </nav>
+        <div class="footer__social">
+            <a href="https://www.facebook.com/" target="_blank" class="footer__social-item"><svg
+                    xmlns="http://www.w3.org/2000/svg" width="13" height="24" viewBox="0 0 13 24">
+                    <path id="_" data-name="" class="facebook__svg svg__soc"
+                        d="M9.2,0.571A5.266,5.266,0,0,0,5.334,2,5.4,5.4,0,0,0,3.883,6.026V9.068H0.325V13.2H3.883V23.786H8.152V13.2H11.7l0.544-4.129H8.152V6.431A2.311,2.311,0,0,1,8.57,4.924a2.05,2.05,0,0,1,1.618-.5h2.19V0.739A23.078,23.078,0,0,0,9.2.571h0Z" />
+                </svg>
+            </a>
+            <a href="https://www.google.com/" target="_blank" class="footer__social-item">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px"
+                    height="20px">
+                    <path class="google__svg svg__soc"
+                        d="M18.290,8.438 L9.408,8.438 L9.408,11.672 L14.747,11.672 C14.696,11.972 14.604,12.289 14.471,12.622 C14.339,12.956 14.129,13.311 13.842,13.688 C13.556,14.064 13.220,14.400 12.835,14.695 C12.450,14.990 11.960,15.236 11.365,15.433 C10.770,15.630 10.118,15.728 9.408,15.728 C8.355,15.728 7.382,15.463 6.488,14.932 C5.594,14.402 4.886,13.681 4.364,12.770 C3.842,11.859 3.581,10.864 3.581,9.786 C3.581,8.708 3.842,7.713 4.364,6.802 C4.886,5.890 5.594,5.170 6.488,4.639 C7.382,4.109 8.355,3.843 9.408,3.843 C10.905,3.843 12.155,4.327 13.156,5.294 L15.710,2.842 C13.956,1.199 11.855,0.378 9.408,0.378 C8.133,0.378 6.914,0.626 5.750,1.122 C4.586,1.619 3.585,2.286 2.747,3.124 C1.908,3.963 1.241,4.964 0.744,6.128 C0.248,7.292 -0.000,8.511 -0.000,9.786 C-0.000,11.061 0.248,12.280 0.744,13.444 C1.241,14.607 1.908,15.609 2.747,16.447 C3.585,17.286 4.586,17.953 5.750,18.449 C6.914,18.945 8.133,19.194 9.408,19.194 C11.188,19.194 12.766,18.802 14.144,18.019 C15.522,17.236 16.583,16.150 17.327,14.759 C18.071,13.369 18.444,11.784 18.444,10.004 C18.444,9.499 18.392,8.977 18.290,8.438 L18.290,8.438 ZM26.889,8.438 L26.889,5.756 L24.194,5.756 L24.194,8.438 L21.511,8.438 L21.511,11.133 L24.194,11.133 L24.194,13.816 L26.889,13.816 L26.889,11.133 L29.571,11.133 L29.571,8.438 L26.889,8.438 Z" />
+                </svg>
+            </a>
+            <a href="https://www.instagram.com/" target="_blank" class="footer__social-item">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px"
+                    height="22px">
+                    <path class="instagram__svg svg__soc"
+                        d="M10.714,14.643 C9.728,14.643 8.887,14.294 8.189,13.597 C7.492,12.899 7.143,12.057 7.143,11.071 C7.143,10.086 7.492,9.244 8.189,8.546 C8.887,7.849 9.728,7.500 10.714,7.500 C11.700,7.500 12.542,7.849 13.239,8.546 C13.937,9.244 14.286,10.086 14.286,11.071 C14.286,12.057 13.937,12.899 13.239,13.597 C12.542,14.294 11.700,14.643 10.714,14.643 ZM10.714,5.575 C9.189,5.575 7.891,6.110 6.822,7.179 C5.752,8.249 5.218,9.546 5.218,11.071 C5.218,12.597 5.752,13.894 6.822,14.964 C7.891,16.033 9.189,16.568 10.714,16.568 C12.240,16.568 13.537,16.033 14.607,14.964 C15.676,13.894 16.211,12.597 16.211,11.071 C16.211,9.546 15.676,8.249 14.607,7.179 C13.537,6.110 12.240,5.575 10.714,5.575 ZM16.434,4.068 C16.081,4.068 15.778,4.194 15.527,4.445 C15.276,4.696 15.151,4.998 15.151,5.352 C15.151,5.705 15.276,6.007 15.527,6.258 C15.778,6.509 16.081,6.635 16.434,6.635 C16.788,6.635 17.090,6.509 17.341,6.258 C17.592,6.007 17.718,5.705 17.718,5.352 C17.718,4.998 17.592,4.696 17.341,4.445 C17.090,4.194 16.788,4.068 16.434,4.068 ZM13.253,2.275 C13.588,2.280 14.037,2.294 14.600,2.317 C15.162,2.341 15.641,2.387 16.037,2.457 C16.432,2.527 16.764,2.613 17.034,2.715 C17.499,2.901 17.908,3.171 18.262,3.524 C18.615,3.878 18.885,4.287 19.071,4.752 C19.173,5.022 19.259,5.354 19.329,5.749 C19.399,6.145 19.445,6.623 19.468,7.186 C19.492,7.749 19.506,8.198 19.510,8.532 C19.515,8.867 19.515,9.358 19.510,10.004 C19.506,10.651 19.503,11.006 19.503,11.071 C19.503,11.137 19.506,11.492 19.510,12.139 C19.515,12.785 19.515,13.276 19.510,13.610 C19.506,13.945 19.492,14.394 19.468,14.957 C19.445,15.520 19.399,15.998 19.329,16.394 C19.259,16.789 19.173,17.122 19.071,17.391 C18.885,17.856 18.615,18.266 18.262,18.619 C17.908,18.972 17.499,19.242 17.034,19.428 C16.764,19.530 16.432,19.616 16.037,19.686 C15.641,19.756 15.162,19.803 14.600,19.826 C14.037,19.849 13.588,19.863 13.253,19.867 C12.919,19.872 12.428,19.872 11.782,19.867 C11.135,19.863 10.779,19.860 10.714,19.860 C10.649,19.860 10.293,19.863 9.647,19.867 C9.001,19.872 8.510,19.872 8.175,19.867 C7.840,19.863 7.392,19.849 6.829,19.826 C6.266,19.803 5.787,19.756 5.392,19.686 C4.997,19.616 4.664,19.530 4.395,19.428 C3.929,19.242 3.520,18.972 3.167,18.619 C2.813,18.266 2.544,17.856 2.358,17.391 C2.255,17.122 2.169,16.789 2.100,16.394 C2.030,15.998 1.983,15.520 1.960,14.957 C1.937,14.394 1.923,13.945 1.918,13.610 C1.913,13.276 1.913,12.785 1.918,12.139 C1.923,11.492 1.925,11.137 1.925,11.071 C1.925,11.006 1.923,10.651 1.918,10.004 C1.913,9.358 1.913,8.867 1.918,8.532 C1.923,8.198 1.937,7.749 1.960,7.186 C1.983,6.623 2.030,6.145 2.100,5.749 C2.169,5.354 2.255,5.022 2.358,4.752 C2.544,4.287 2.813,3.878 3.167,3.524 C3.520,3.171 3.929,2.901 4.395,2.715 C4.664,2.613 4.997,2.527 5.392,2.457 C5.787,2.387 6.266,2.341 6.829,2.317 C7.392,2.294 7.840,2.280 8.175,2.275 C8.510,2.271 9.001,2.271 9.647,2.275 C10.293,2.280 10.649,2.282 10.714,2.282 C10.779,2.282 11.135,2.280 11.782,2.275 C12.428,2.271 12.919,2.271 13.253,2.275 ZM21.359,6.649 C21.266,4.715 20.689,3.217 19.629,2.157 C18.569,1.097 17.071,0.520 15.137,0.427 C14.318,0.380 12.844,0.357 10.714,0.357 C8.584,0.357 7.110,0.380 6.292,0.427 C4.357,0.520 2.860,1.097 1.800,2.157 C0.739,3.217 0.163,4.715 0.070,6.649 C0.023,7.468 -0.000,8.942 -0.000,11.071 C-0.000,13.201 0.023,14.676 0.070,15.494 C0.163,17.428 0.739,18.926 1.800,19.986 C2.860,21.046 4.357,21.623 6.292,21.716 C7.110,21.762 8.584,21.786 10.714,21.786 C12.844,21.786 14.318,21.762 15.137,21.716 C17.071,21.623 18.569,21.046 19.629,19.986 C20.689,18.926 21.266,17.428 21.359,15.494 C21.405,14.676 21.429,13.201 21.429,11.071 C21.429,8.942 21.405,7.468 21.359,6.649 L21.359,6.649 Z" />
+                </svg>
+            </a>
+            <a href="https://twitter.com/" target="_blank" class="footer__social-item">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23px"
+                    height="18px">
+                    <path class="twitter__svg svg__soc"
+                        d="M20.006,2.961 C20.982,2.375 21.642,1.547 21.987,0.478 C21.094,1.008 20.140,1.371 19.127,1.566 C18.234,0.617 17.136,0.143 15.834,0.143 C14.588,0.143 13.525,0.582 12.646,1.461 C11.768,2.340 11.328,3.403 11.328,4.649 C11.328,4.984 11.365,5.328 11.440,5.681 C9.598,5.589 7.870,5.126 6.257,4.293 C4.643,3.461 3.274,2.352 2.148,0.966 C1.739,1.664 1.535,2.422 1.535,3.240 C1.535,4.012 1.716,4.728 2.079,5.388 C2.441,6.049 2.930,6.584 3.544,6.993 C2.818,6.965 2.139,6.774 1.507,6.421 L1.507,6.477 C1.507,7.565 1.848,8.520 2.532,9.343 C3.216,10.167 4.078,10.685 5.120,10.899 C4.729,11.001 4.334,11.052 3.934,11.052 C3.674,11.052 3.390,11.029 3.083,10.983 C3.371,11.885 3.901,12.627 4.674,13.208 C5.445,13.789 6.320,14.089 7.296,14.108 C5.659,15.391 3.795,16.033 1.702,16.033 C1.302,16.033 0.939,16.014 0.614,15.977 C2.706,17.326 5.013,18.000 7.533,18.000 C9.133,18.000 10.635,17.747 12.040,17.240 C13.444,16.733 14.644,16.054 15.639,15.203 C16.634,14.352 17.492,13.373 18.213,12.266 C18.934,11.159 19.471,10.004 19.824,8.799 C20.178,7.595 20.354,6.388 20.354,5.179 C20.354,4.919 20.350,4.724 20.340,4.593 C21.224,3.951 21.977,3.175 22.600,2.263 C21.735,2.635 20.871,2.868 20.006,2.961 L20.006,2.961 Z" />
+                </svg>
+            </a>
+        </div>
+        <div class="footer__copyright">
+            © Copyright 2017. Big Shop by Victor Themes
+        </div>
+
+    </footer>
+    <script src="./js/main.js"></script>
+</body>
+
+</html>

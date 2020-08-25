@@ -1,0 +1,14888 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+    20
+  9
+$DWGCODEPAGE
+  3
+ANSI_936
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     0
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+0.3
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     0
+  9
+$DIMTOH
+ 70
+     0
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.03937007874016
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     8
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+0.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$CHAMFERC
+ 40
+0.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2454460.695741099
+  9
+$TDUCREATE
+ 40
+2454460.362407766
+  9
+$TDUPDATE
+ 40
+2454460.697024734
+  9
+$TDUUPDATE
+ 40
+2454460.363691401
+  9
+$TDINDWG
+ 40
+0.0012843634
+  9
+$TDUSRTIMER
+ 40
+0.0012841782
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     3
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+15033f
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PEXTMAX
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{FDEAD578-A652-11D2-9A35-0060089B3A3F}
+  9
+$VERSIONGUID
+  2
+{498FDF44-38C4-4775-B9B0-99772674F474}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+ObjectDBX Classes
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+VPORT
+  5
+3F0D
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+1000.514519196219
+ 22
+620.0371668258258
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+1240.074333651651
+ 41
+1.613636363636363
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+  1000
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     5
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+text
+ 70
+     0
+ 62
+     1
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0    
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+0.3
+  3
+times.ttf
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+100
+AcDbDimStyleTable
+ 71
+     0
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+50
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+51
+  0
+BLOCK_RECORD
+  5
+55
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+56
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+52
+330
+50
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+53
+330
+50
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+57
+330
+55
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+58
+330
+55
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+0
+SECTION
+2
+ENTITIES
+ 0
+POINT
+  5
+3f30
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236029.7849729573
+20
+467952.3276504539
+30
+145.08666386304424
+ 0
+TEXT
+  5
+3f31
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236029.7849729573
+ 20
+467952.3276504539
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uz
+100
+AcDbText
+ 0
+TEXT
+  5
+3f32
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236029.7849729573
+ 20
+467950.3276504539
+ 30
+145.08666386304424
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236029.785m N: 467952.3277m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f33
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236029.7849729573
+ 20
+467946.3276504539
+ 30
+145.08666386304424
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.0867m
+100
+AcDbText
+ 0
+POINT
+  5
+3f34
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236026.984505789
+20
+467952.8115890734
+30
+144.6608808061853
+ 0
+TEXT
+  5
+3f35
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.984505789
+ 20
+467952.8115890734
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ vor
+100
+AcDbText
+ 0
+TEXT
+  5
+3f36
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.984505789
+ 20
+467950.8115890734
+ 30
+144.6608808061853
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236026.9845m N: 467952.8116m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f37
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.984505789
+ 20
+467946.8115890734
+ 30
+144.6608808061853
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6609m
+100
+AcDbText
+ 0
+POINT
+  5
+3f38
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236027.3270849525
+20
+467952.72576215304
+30
+144.929656865336
+ 0
+TEXT
+  5
+3f39
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236027.3270849525
+ 20
+467952.72576215304
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ vor1
+100
+AcDbText
+ 0
+TEXT
+  5
+3f3a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236027.3270849525
+ 20
+467950.72576215304
+ 30
+144.929656865336
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236027.3271m N: 467952.7258m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f3b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236027.3270849525
+ 20
+467946.72576215304
+ 30
+144.929656865336
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.9297m
+100
+AcDbText
+ 0
+POINT
+  5
+3f3c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236022.7312837327
+20
+467953.38970957417
+30
+144.9882486725971
+ 0
+TEXT
+  5
+3f3d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.7312837327
+ 20
+467953.38970957417
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ vor2
+100
+AcDbText
+ 0
+TEXT
+  5
+3f3e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.7312837327
+ 20
+467951.38970957417
+ 30
+144.9882486725971
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236022.7313m N: 467953.3897m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f3f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.7312837327
+ 20
+467947.38970957417
+ 30
+144.9882486725971
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.9882m
+100
+AcDbText
+ 0
+POINT
+  5
+3f40
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236022.7290267176
+20
+467953.4115162967
+30
+145.00503484465182
+ 0
+TEXT
+  5
+3f41
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.7290267176
+ 20
+467953.4115162967
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ vor3
+100
+AcDbText
+ 0
+TEXT
+  5
+3f42
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.7290267176
+ 20
+467951.4115162967
+ 30
+145.00503484465182
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236022.729m N: 467953.4115m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f43
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.7290267176
+ 20
+467947.4115162967
+ 30
+145.00503484465182
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.005m
+100
+AcDbText
+ 0
+POINT
+  5
+3f44
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235994.8180159377
+20
+467957.5763500687
+30
+144.95120219167322
+ 0
+TEXT
+  5
+3f45
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235994.8180159377
+ 20
+467957.5763500687
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ vor
+100
+AcDbText
+ 0
+TEXT
+  5
+3f46
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235994.8180159377
+ 20
+467955.5763500687
+ 30
+144.95120219167322
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235994.818m N: 467957.5764m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f47
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235994.8180159377
+ 20
+467951.5763500687
+ 30
+144.95120219167322
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.9512m
+100
+AcDbText
+ 0
+POINT
+  5
+3f48
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235990.690120025
+20
+467958.1071668416
+30
+145.07776550136506
+ 0
+TEXT
+  5
+3f49
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235990.690120025
+ 20
+467958.1071668416
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uz
+100
+AcDbText
+ 0
+TEXT
+  5
+3f4a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235990.690120025
+ 20
+467956.1071668416
+ 30
+145.07776550136506
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235990.6901m N: 467958.1072m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f4b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235990.690120025
+ 20
+467952.1071668416
+ 30
+145.07776550136506
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.0778m
+100
+AcDbText
+ 0
+POINT
+  5
+3f4c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235990.6927866326
+20
+467958.10183444154
+30
+145.07603151191026
+ 0
+TEXT
+  5
+3f4d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235990.6927866326
+ 20
+467958.10183444154
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uz1
+100
+AcDbText
+ 0
+TEXT
+  5
+3f4e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235990.6927866326
+ 20
+467956.10183444154
+ 30
+145.07603151191026
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235990.6928m N: 467958.1018m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f4f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235990.6927866326
+ 20
+467952.10183444154
+ 30
+145.07603151191026
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.076m
+100
+AcDbText
+ 0
+POINT
+  5
+3f50
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235990.691867362
+20
+467958.1017446406
+30
+145.07228097997606
+ 0
+TEXT
+  5
+3f51
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235990.691867362
+ 20
+467958.1017446406
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uz2
+100
+AcDbText
+ 0
+TEXT
+  5
+3f52
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235990.691867362
+ 20
+467956.1017446406
+ 30
+145.07228097997606
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235990.6919m N: 467958.1017m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f53
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235990.691867362
+ 20
+467952.1017446406
+ 30
+145.07228097997606
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.0723m
+100
+AcDbText
+ 0
+POINT
+  5
+3f54
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235995.631433306
+20
+467988.26442061365
+30
+145.14310376558453
+ 0
+TEXT
+  5
+3f55
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235995.631433306
+ 20
+467988.26442061365
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uz3
+100
+AcDbText
+ 0
+TEXT
+  5
+3f56
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235995.631433306
+ 20
+467986.26442061365
+ 30
+145.14310376558453
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235995.6314m N: 467988.2644m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f57
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235995.631433306
+ 20
+467982.26442061365
+ 30
+145.14310376558453
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.1431m
+100
+AcDbText
+ 0
+POINT
+  5
+3f58
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235995.6310611325
+20
+467988.266333133
+30
+145.14070178873837
+ 0
+TEXT
+  5
+3f59
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235995.6310611325
+ 20
+467988.266333133
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uz4
+100
+AcDbText
+ 0
+TEXT
+  5
+3f5a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235995.6310611325
+ 20
+467986.266333133
+ 30
+145.14070178873837
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235995.6311m N: 467988.2663m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f5b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235995.6310611325
+ 20
+467982.266333133
+ 30
+145.14070178873837
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.1407m
+100
+AcDbText
+ 0
+POINT
+  5
+3f5c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235993.279588738
+20
+467977.39284903556
+30
+144.79876449171454
+ 0
+TEXT
+  5
+3f5d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235993.279588738
+ 20
+467977.39284903556
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uz5
+100
+AcDbText
+ 0
+TEXT
+  5
+3f5e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235993.279588738
+ 20
+467975.39284903556
+ 30
+144.79876449171454
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235993.2796m N: 467977.3928m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f5f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235993.279588738
+ 20
+467971.39284903556
+ 30
+144.79876449171454
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.7988m
+100
+AcDbText
+ 0
+POINT
+  5
+3f60
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235994.2997397417
+20
+467979.7480365364
+30
+145.12637343004346
+ 0
+TEXT
+  5
+3f61
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235994.2997397417
+ 20
+467979.7480365364
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uz6t
+100
+AcDbText
+ 0
+TEXT
+  5
+3f62
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235994.2997397417
+ 20
+467977.7480365364
+ 30
+145.12637343004346
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235994.2997m N: 467979.748m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f63
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235994.2997397417
+ 20
+467973.7480365364
+ 30
+145.12637343004346
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.1264m
+100
+AcDbText
+ 0
+POINT
+  5
+3f64
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236032.946340962
+20
+467973.21200069785
+30
+144.68921070292592
+ 0
+TEXT
+  5
+3f65
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236032.946340962
+ 20
+467973.21200069785
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzst
+100
+AcDbText
+ 0
+TEXT
+  5
+3f66
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236032.946340962
+ 20
+467971.21200069785
+ 30
+144.68921070292592
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236032.9463m N: 467973.212m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f67
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236032.946340962
+ 20
+467967.21200069785
+ 30
+144.68921070292592
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6892m
+100
+AcDbText
+ 0
+POINT
+  5
+3f68
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236032.945864233
+20
+467973.21016235836
+30
+144.69362073976546
+ 0
+TEXT
+  5
+3f69
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236032.945864233
+ 20
+467973.21016235836
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzst1
+100
+AcDbText
+ 0
+TEXT
+  5
+3f6a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236032.945864233
+ 20
+467971.21016235836
+ 30
+144.69362073976546
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236032.9459m N: 467973.2102m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f6b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236032.945864233
+ 20
+467967.21016235836
+ 30
+144.69362073976546
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6936m
+100
+AcDbText
+ 0
+POINT
+  5
+3f6c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236027.320123265
+20
+467982.7646426046
+30
+145.34115604709834
+ 0
+TEXT
+  5
+3f6d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236027.320123265
+ 20
+467982.7646426046
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzst2
+100
+AcDbText
+ 0
+TEXT
+  5
+3f6e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236027.320123265
+ 20
+467980.7646426046
+ 30
+145.34115604709834
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236027.3201m N: 467982.7646m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f6f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236027.320123265
+ 20
+467976.7646426046
+ 30
+145.34115604709834
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.3412m
+100
+AcDbText
+ 0
+POINT
+  5
+3f70
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236015.4201807226
+20
+467968.4816180635
+30
+144.65032047804445
+ 0
+TEXT
+  5
+3f71
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.4201807226
+ 20
+467968.4816180635
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms
+100
+AcDbText
+ 0
+TEXT
+  5
+3f72
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.4201807226
+ 20
+467966.4816180635
+ 30
+144.65032047804445
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236015.4202m N: 467968.4816m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f73
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.4201807226
+ 20
+467962.4816180635
+ 30
+144.65032047804445
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6503m
+100
+AcDbText
+ 0
+POINT
+  5
+3f74
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236015.4115286483
+20
+467968.48170556873
+30
+144.67065710972994
+ 0
+TEXT
+  5
+3f75
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.4115286483
+ 20
+467968.48170556873
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms1
+100
+AcDbText
+ 0
+TEXT
+  5
+3f76
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.4115286483
+ 20
+467966.48170556873
+ 30
+144.67065710972994
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236015.4115m N: 467968.4817m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f77
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.4115286483
+ 20
+467962.48170556873
+ 30
+144.67065710972994
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6707m
+100
+AcDbText
+ 0
+POINT
+  5
+3f78
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236007.6883056043
+20
+467963.6959122196
+30
+144.69641876526177
+ 0
+TEXT
+  5
+3f79
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236007.6883056043
+ 20
+467963.6959122196
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms2
+100
+AcDbText
+ 0
+TEXT
+  5
+3f7a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236007.6883056043
+ 20
+467961.6959122196
+ 30
+144.69641876526177
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236007.6883m N: 467963.6959m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f7b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236007.6883056043
+ 20
+467957.6959122196
+ 30
+144.69641876526177
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6964m
+100
+AcDbText
+ 0
+POINT
+  5
+3f7c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236007.6979091046
+20
+467963.6923987735
+30
+144.69007165290415
+ 0
+TEXT
+  5
+3f7d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236007.6979091046
+ 20
+467963.6923987735
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms3
+100
+AcDbText
+ 0
+TEXT
+  5
+3f7e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236007.6979091046
+ 20
+467961.6923987735
+ 30
+144.69007165290415
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236007.6979m N: 467963.6924m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f7f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236007.6979091046
+ 20
+467957.6923987735
+ 30
+144.69007165290415
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6901m
+100
+AcDbText
+ 0
+POINT
+  5
+3f80
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235999.8457626747
+20
+467964.74064148776
+30
+144.57168441012502
+ 0
+TEXT
+  5
+3f81
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.8457626747
+ 20
+467964.74064148776
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms4
+100
+AcDbText
+ 0
+TEXT
+  5
+3f82
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.8457626747
+ 20
+467962.74064148776
+ 30
+144.57168441012502
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235999.8458m N: 467964.7406m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f83
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.8457626747
+ 20
+467958.74064148776
+ 30
+144.57168441012502
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5717m
+100
+AcDbText
+ 0
+POINT
+  5
+3f84
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235999.8651821157
+20
+467964.7281166045
+30
+144.55966556750238
+ 0
+TEXT
+  5
+3f85
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.8651821157
+ 20
+467964.7281166045
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms5
+100
+AcDbText
+ 0
+TEXT
+  5
+3f86
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.8651821157
+ 20
+467962.7281166045
+ 30
+144.55966556750238
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235999.8652m N: 467964.7281m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f87
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.8651821157
+ 20
+467958.7281166045
+ 30
+144.55966556750238
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5597m
+100
+AcDbText
+ 0
+POINT
+  5
+3f88
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235998.578216909
+20
+467970.875388965
+30
+145.73670389156788
+ 0
+TEXT
+  5
+3f89
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235998.578216909
+ 20
+467970.875388965
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms6
+100
+AcDbText
+ 0
+TEXT
+  5
+3f8a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235998.578216909
+ 20
+467968.875388965
+ 30
+145.73670389156788
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235998.5782m N: 467970.8754m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f8b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235998.578216909
+ 20
+467964.875388965
+ 30
+145.73670389156788
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.7367m
+100
+AcDbText
+ 0
+POINT
+  5
+3f8c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235998.578581261
+20
+467970.8679582635
+30
+145.73732659433037
+ 0
+TEXT
+  5
+3f8d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235998.578581261
+ 20
+467970.8679582635
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms7
+100
+AcDbText
+ 0
+TEXT
+  5
+3f8e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235998.578581261
+ 20
+467968.8679582635
+ 30
+145.73732659433037
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235998.5786m N: 467970.868m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f8f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235998.578581261
+ 20
+467964.8679582635
+ 30
+145.73732659433037
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.7373m
+100
+AcDbText
+ 0
+POINT
+  5
+3f90
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235999.640710849
+20
+467976.5501680244
+30
+144.90107217550278
+ 0
+TEXT
+  5
+3f91
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.640710849
+ 20
+467976.5501680244
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms8
+100
+AcDbText
+ 0
+TEXT
+  5
+3f92
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.640710849
+ 20
+467974.5501680244
+ 30
+144.90107217550278
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235999.6407m N: 467976.5502m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f93
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.640710849
+ 20
+467970.5501680244
+ 30
+144.90107217550278
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.9011m
+100
+AcDbText
+ 0
+POINT
+  5
+3f94
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235999.639087785
+20
+467976.56697373744
+30
+144.91220348633826
+ 0
+TEXT
+  5
+3f95
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.639087785
+ 20
+467976.56697373744
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms9
+100
+AcDbText
+ 0
+TEXT
+  5
+3f96
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.639087785
+ 20
+467974.56697373744
+ 30
+144.91220348633826
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235999.6391m N: 467976.567m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f97
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235999.639087785
+ 20
+467970.56697373744
+ 30
+144.91220348633826
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.9122m
+100
+AcDbText
+ 0
+POINT
+  5
+3f98
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236000.3431814164
+20
+467979.51254613604
+30
+144.9111214487627
+ 0
+TEXT
+  5
+3f99
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236000.3431814164
+ 20
+467979.51254613604
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms10
+100
+AcDbText
+ 0
+TEXT
+  5
+3f9a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236000.3431814164
+ 20
+467977.51254613604
+ 30
+144.9111214487627
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236000.3432m N: 467979.5125m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f9b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236000.3431814164
+ 20
+467973.51254613604
+ 30
+144.9111214487627
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.9111m
+100
+AcDbText
+ 0
+POINT
+  5
+3f9c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236000.3403435927
+20
+467979.5058997022
+30
+144.9115995264426
+ 0
+TEXT
+  5
+3f9d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236000.3403435927
+ 20
+467979.5058997022
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms11
+100
+AcDbText
+ 0
+TEXT
+  5
+3f9e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236000.3403435927
+ 20
+467977.5058997022
+ 30
+144.9115995264426
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236000.3403m N: 467979.5059m
+100
+AcDbText
+ 0
+TEXT
+  5
+3f9f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236000.3403435927
+ 20
+467973.5058997022
+ 30
+144.9115995264426
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.9116m
+100
+AcDbText
+ 0
+POINT
+  5
+3fa0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236002.354426212
+20
+467981.78396865446
+30
+144.86226633217186
+ 0
+TEXT
+  5
+3fa1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236002.354426212
+ 20
+467981.78396865446
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms12
+100
+AcDbText
+ 0
+TEXT
+  5
+3fa2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236002.354426212
+ 20
+467979.78396865446
+ 30
+144.86226633217186
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236002.3544m N: 467981.784m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fa3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236002.354426212
+ 20
+467975.78396865446
+ 30
+144.86226633217186
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.8623m
+100
+AcDbText
+ 0
+POINT
+  5
+3fa4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236002.337426054
+20
+467981.7218454741
+30
+144.87104188397527
+ 0
+TEXT
+  5
+3fa5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236002.337426054
+ 20
+467981.7218454741
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms13
+100
+AcDbText
+ 0
+TEXT
+  5
+3fa6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236002.337426054
+ 20
+467979.7218454741
+ 30
+144.87104188397527
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236002.3374m N: 467981.7218m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fa7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236002.337426054
+ 20
+467975.7218454741
+ 30
+144.87104188397527
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.871m
+100
+AcDbText
+ 0
+POINT
+  5
+3fa8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236004.159304932
+20
+467981.3427042393
+30
+144.85542368169874
+ 0
+TEXT
+  5
+3fa9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236004.159304932
+ 20
+467981.3427042393
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms14
+100
+AcDbText
+ 0
+TEXT
+  5
+3faa
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236004.159304932
+ 20
+467979.3427042393
+ 30
+144.85542368169874
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236004.1593m N: 467981.3427m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fab
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236004.159304932
+ 20
+467975.3427042393
+ 30
+144.85542368169874
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.8554m
+100
+AcDbText
+ 0
+POINT
+  5
+3fac
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236004.16860396
+20
+467981.38414127193
+30
+144.87515206381678
+ 0
+TEXT
+  5
+3fad
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236004.16860396
+ 20
+467981.38414127193
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms15
+100
+AcDbText
+ 0
+TEXT
+  5
+3fae
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236004.16860396
+ 20
+467979.38414127193
+ 30
+144.87515206381678
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236004.1686m N: 467981.3841m
+100
+AcDbText
+ 0
+TEXT
+  5
+3faf
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236004.16860396
+ 20
+467975.38414127193
+ 30
+144.87515206381678
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.8752m
+100
+AcDbText
+ 0
+POINT
+  5
+3fb0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236010.439189814
+20
+467982.42628147826
+30
+144.79715954631567
+ 0
+TEXT
+  5
+3fb1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236010.439189814
+ 20
+467982.42628147826
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms16
+100
+AcDbText
+ 0
+TEXT
+  5
+3fb2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236010.439189814
+ 20
+467980.42628147826
+ 30
+144.79715954631567
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236010.4392m N: 467982.4263m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fb3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236010.439189814
+ 20
+467976.42628147826
+ 30
+144.79715954631567
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.7972m
+100
+AcDbText
+ 0
+POINT
+  5
+3fb4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236010.374248279
+20
+467982.3611999061
+30
+144.79206831220537
+ 0
+TEXT
+  5
+3fb5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236010.374248279
+ 20
+467982.3611999061
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms17
+100
+AcDbText
+ 0
+TEXT
+  5
+3fb6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236010.374248279
+ 20
+467980.3611999061
+ 30
+144.79206831220537
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236010.3742m N: 467982.3612m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fb7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236010.374248279
+ 20
+467976.3611999061
+ 30
+144.79206831220537
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.7921m
+100
+AcDbText
+ 0
+POINT
+  5
+3fb8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236010.4197817566
+20
+467982.40539523587
+30
+144.77555980745703
+ 0
+TEXT
+  5
+3fb9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236010.4197817566
+ 20
+467982.40539523587
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms18
+100
+AcDbText
+ 0
+TEXT
+  5
+3fba
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236010.4197817566
+ 20
+467980.40539523587
+ 30
+144.77555980745703
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236010.4198m N: 467982.4054m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fbb
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236010.4197817566
+ 20
+467976.40539523587
+ 30
+144.77555980745703
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.7756m
+100
+AcDbText
+ 0
+POINT
+  5
+3fbc
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236012.5675968733
+20
+467977.91551373247
+30
+144.84496641185135
+ 0
+TEXT
+  5
+3fbd
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.5675968733
+ 20
+467977.91551373247
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms19
+100
+AcDbText
+ 0
+TEXT
+  5
+3fbe
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.5675968733
+ 20
+467975.91551373247
+ 30
+144.84496641185135
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236012.5676m N: 467977.9155m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fbf
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.5675968733
+ 20
+467971.91551373247
+ 30
+144.84496641185135
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.845m
+100
+AcDbText
+ 0
+POINT
+  5
+3fc0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236012.6119491374
+20
+467977.81765084434
+30
+144.7638549639657
+ 0
+TEXT
+  5
+3fc1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.6119491374
+ 20
+467977.81765084434
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms20
+100
+AcDbText
+ 0
+TEXT
+  5
+3fc2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.6119491374
+ 20
+467975.81765084434
+ 30
+144.7638549639657
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236012.6119m N: 467977.8177m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fc3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.6119491374
+ 20
+467971.81765084434
+ 30
+144.7638549639657
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.7639m
+100
+AcDbText
+ 0
+POINT
+  5
+3fc4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236013.237889605
+20
+467974.7212459268
+30
+145.00939542081207
+ 0
+TEXT
+  5
+3fc5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.237889605
+ 20
+467974.7212459268
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms21
+100
+AcDbText
+ 0
+TEXT
+  5
+3fc6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.237889605
+ 20
+467972.7212459268
+ 30
+145.00939542081207
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236013.2379m N: 467974.7212m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fc7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.237889605
+ 20
+467968.7212459268
+ 30
+145.00939542081207
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.0094m
+100
+AcDbText
+ 0
+POINT
+  5
+3fc8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236013.2557306406
+20
+467974.71871025395
+30
+145.01178728628904
+ 0
+TEXT
+  5
+3fc9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.2557306406
+ 20
+467974.71871025395
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ doms22
+100
+AcDbText
+ 0
+TEXT
+  5
+3fca
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.2557306406
+ 20
+467972.71871025395
+ 30
+145.01178728628904
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236013.2557m N: 467974.7187m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fcb
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.2557306406
+ 20
+467968.71871025395
+ 30
+145.01178728628904
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.0118m
+100
+AcDbText
+ 0
+POINT
+  5
+3fcc
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236014.208718544
+20
+467972.0365610132
+30
+144.5117917976156
+ 0
+TEXT
+  5
+3fcd
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236014.208718544
+ 20
+467972.0365610132
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banjaver
+100
+AcDbText
+ 0
+TEXT
+  5
+3fce
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236014.208718544
+ 20
+467970.0365610132
+ 30
+144.5117917976156
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236014.2087m N: 467972.0366m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fcf
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236014.208718544
+ 20
+467966.0365610132
+ 30
+144.5117917976156
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5118m
+100
+AcDbText
+ 0
+POINT
+  5
+3fd0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236015.282237698
+20
+467971.9814326037
+30
+144.5673773561418
+ 0
+TEXT
+  5
+3fd1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.282237698
+ 20
+467971.9814326037
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja
+100
+AcDbText
+ 0
+TEXT
+  5
+3fd2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.282237698
+ 20
+467969.9814326037
+ 30
+144.5673773561418
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236015.2822m N: 467971.9814m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fd3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.282237698
+ 20
+467965.9814326037
+ 30
+144.5673773561418
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5674m
+100
+AcDbText
+ 0
+POINT
+  5
+3fd4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236015.283753561
+20
+467971.9841897851
+30
+144.56841385763138
+ 0
+TEXT
+  5
+3fd5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.283753561
+ 20
+467971.9841897851
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja1
+100
+AcDbText
+ 0
+TEXT
+  5
+3fd6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.283753561
+ 20
+467969.9841897851
+ 30
+144.56841385763138
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236015.2838m N: 467971.9842m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fd7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.283753561
+ 20
+467965.9841897851
+ 30
+144.56841385763138
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5684m
+100
+AcDbText
+ 0
+POINT
+  5
+3fd8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236012.7174421926
+20
+467975.178199742
+30
+144.55213311526924
+ 0
+TEXT
+  5
+3fd9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.7174421926
+ 20
+467975.178199742
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja2
+100
+AcDbText
+ 0
+TEXT
+  5
+3fda
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.7174421926
+ 20
+467973.178199742
+ 30
+144.55213311526924
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236012.7174m N: 467975.1782m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fdb
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.7174421926
+ 20
+467969.178199742
+ 30
+144.55213311526924
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5521m
+100
+AcDbText
+ 0
+POINT
+  5
+3fdc
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236015.9271449572
+20
+467983.5711867586
+30
+145.58412006802857
+ 0
+TEXT
+  5
+3fdd
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.9271449572
+ 20
+467983.5711867586
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banjaver
+100
+AcDbText
+ 0
+TEXT
+  5
+3fde
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.9271449572
+ 20
+467981.5711867586
+ 30
+145.58412006802857
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236015.9271m N: 467983.5712m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fdf
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.9271449572
+ 20
+467977.5711867586
+ 30
+145.58412006802857
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 145.5841m
+100
+AcDbText
+ 0
+POINT
+  5
+3fe0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236017.107487825
+20
+467983.5353158014
+30
+144.8605854811892
+ 0
+TEXT
+  5
+3fe1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.107487825
+ 20
+467983.5353158014
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja
+100
+AcDbText
+ 0
+TEXT
+  5
+3fe2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.107487825
+ 20
+467981.5353158014
+ 30
+144.8605854811892
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236017.1075m N: 467983.5353m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fe3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.107487825
+ 20
+467977.5353158014
+ 30
+144.8605854811892
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.8606m
+100
+AcDbText
+ 0
+POINT
+  5
+3fe4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236017.113228182
+20
+467983.536404375
+30
+144.86135301765054
+ 0
+TEXT
+  5
+3fe5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.113228182
+ 20
+467983.536404375
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja1
+100
+AcDbText
+ 0
+TEXT
+  5
+3fe6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.113228182
+ 20
+467981.536404375
+ 30
+144.86135301765054
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236017.1132m N: 467983.5364m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fe7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.113228182
+ 20
+467977.536404375
+ 30
+144.86135301765054
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.8614m
+100
+AcDbText
+ 0
+POINT
+  5
+3fe8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236014.321517432
+20
+467982.4388101455
+30
+144.82624739527702
+ 0
+TEXT
+  5
+3fe9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236014.321517432
+ 20
+467982.4388101455
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja2
+100
+AcDbText
+ 0
+TEXT
+  5
+3fea
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236014.321517432
+ 20
+467980.4388101455
+ 30
+144.82624739527702
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236014.3215m N: 467982.4388m
+100
+AcDbText
+ 0
+TEXT
+  5
+3feb
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236014.321517432
+ 20
+467976.4388101455
+ 30
+144.82624739527702
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.8262m
+100
+AcDbText
+ 0
+POINT
+  5
+3fec
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236014.3301823367
+20
+467982.44008003175
+30
+144.82465591587126
+ 0
+TEXT
+  5
+3fed
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236014.3301823367
+ 20
+467982.44008003175
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja3
+100
+AcDbText
+ 0
+TEXT
+  5
+3fee
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236014.3301823367
+ 20
+467980.44008003175
+ 30
+144.82465591587126
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236014.3302m N: 467982.4401m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fef
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236014.3301823367
+ 20
+467976.44008003175
+ 30
+144.82465591587126
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.8247m
+100
+AcDbText
+ 0
+POINT
+  5
+3ff0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236024.243617428
+20
+467982.1213049311
+30
+144.73213014218956
+ 0
+TEXT
+  5
+3ff1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236024.243617428
+ 20
+467982.1213049311
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja4
+100
+AcDbText
+ 0
+TEXT
+  5
+3ff2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236024.243617428
+ 20
+467980.1213049311
+ 30
+144.73213014218956
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236024.2436m N: 467982.1213m
+100
+AcDbText
+ 0
+TEXT
+  5
+3ff3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236024.243617428
+ 20
+467976.1213049311
+ 30
+144.73213014218956
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.7321m
+100
+AcDbText
+ 0
+POINT
+  5
+3ff4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236024.2607783475
+20
+467982.1526506217
+30
+144.7075718196854
+ 0
+TEXT
+  5
+3ff5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236024.2607783475
+ 20
+467982.1526506217
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja5
+100
+AcDbText
+ 0
+TEXT
+  5
+3ff6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236024.2607783475
+ 20
+467980.1526506217
+ 30
+144.7075718196854
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236024.2608m N: 467982.1527m
+100
+AcDbText
+ 0
+TEXT
+  5
+3ff7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236024.2607783475
+ 20
+467976.1526506217
+ 30
+144.7075718196854
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.7076m
+100
+AcDbText
+ 0
+POINT
+  5
+3ff8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236026.179867514
+20
+467980.5043684365
+30
+144.71484068714082
+ 0
+TEXT
+  5
+3ff9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.179867514
+ 20
+467980.5043684365
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja6
+100
+AcDbText
+ 0
+TEXT
+  5
+3ffa
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.179867514
+ 20
+467978.5043684365
+ 30
+144.71484068714082
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236026.1799m N: 467980.5044m
+100
+AcDbText
+ 0
+TEXT
+  5
+3ffb
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.179867514
+ 20
+467974.5043684365
+ 30
+144.71484068714082
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.7148m
+100
+AcDbText
+ 0
+POINT
+  5
+3ffc
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236026.1676183855
+20
+467980.51209672354
+30
+144.68783026400953
+ 0
+TEXT
+  5
+3ffd
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.1676183855
+ 20
+467980.51209672354
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja7
+100
+AcDbText
+ 0
+TEXT
+  5
+3ffe
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.1676183855
+ 20
+467978.51209672354
+ 30
+144.68783026400953
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236026.1676m N: 467980.5121m
+100
+AcDbText
+ 0
+TEXT
+  5
+3fff
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.1676183855
+ 20
+467974.51209672354
+ 30
+144.68783026400953
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6878m
+100
+AcDbText
+ 0
+POINT
+  5
+4000
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236026.355560019
+20
+467972.88376937434
+30
+144.67353261660784
+ 0
+TEXT
+  5
+4001
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.355560019
+ 20
+467972.88376937434
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja8
+100
+AcDbText
+ 0
+TEXT
+  5
+4002
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.355560019
+ 20
+467970.88376937434
+ 30
+144.67353261660784
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236026.3556m N: 467972.8838m
+100
+AcDbText
+ 0
+TEXT
+  5
+4003
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.355560019
+ 20
+467966.88376937434
+ 30
+144.67353261660784
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6735m
+100
+AcDbText
+ 0
+POINT
+  5
+4004
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236026.354281612
+20
+467972.8960335497
+30
+144.6751115538925
+ 0
+TEXT
+  5
+4005
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.354281612
+ 20
+467972.8960335497
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja9
+100
+AcDbText
+ 0
+TEXT
+  5
+4006
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.354281612
+ 20
+467970.8960335497
+ 30
+144.6751115538925
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236026.3543m N: 467972.896m
+100
+AcDbText
+ 0
+TEXT
+  5
+4007
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.354281612
+ 20
+467966.8960335497
+ 30
+144.6751115538925
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6751m
+100
+AcDbText
+ 0
+POINT
+  5
+4008
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236022.292833448
+20
+467970.0416121287
+30
+144.62452488139272
+ 0
+TEXT
+  5
+4009
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.292833448
+ 20
+467970.0416121287
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja10
+100
+AcDbText
+ 0
+TEXT
+  5
+400a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.292833448
+ 20
+467968.0416121287
+ 30
+144.62452488139272
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236022.2928m N: 467970.0416m
+100
+AcDbText
+ 0
+TEXT
+  5
+400b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.292833448
+ 20
+467964.0416121287
+ 30
+144.62452488139272
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6245m
+100
+AcDbText
+ 0
+POINT
+  5
+400c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236022.303127777
+20
+467970.1626185542
+30
+144.58079691629857
+ 0
+TEXT
+  5
+400d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.303127777
+ 20
+467970.1626185542
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ banja11
+100
+AcDbText
+ 0
+TEXT
+  5
+400e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.303127777
+ 20
+467968.1626185542
+ 30
+144.58079691629857
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236022.3031m N: 467970.1626m
+100
+AcDbText
+ 0
+TEXT
+  5
+400f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236022.303127777
+ 20
+467964.1626185542
+ 30
+144.58079691629857
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5808m
+100
+AcDbText
+ 0
+POINT
+  5
+4010
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236025.65115582
+20
+467964.2514128182
+30
+144.63517087817192
+ 0
+TEXT
+  5
+4011
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236025.65115582
+ 20
+467964.2514128182
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka
+100
+AcDbText
+ 0
+TEXT
+  5
+4012
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236025.65115582
+ 20
+467962.2514128182
+ 30
+144.63517087817192
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236025.6512m N: 467964.2514m
+100
+AcDbText
+ 0
+TEXT
+  5
+4013
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236025.65115582
+ 20
+467958.2514128182
+ 30
+144.63517087817192
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6352m
+100
+AcDbText
+ 0
+POINT
+  5
+4014
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236026.2110656216
+20
+467957.988290797
+30
+144.60795117102563
+ 0
+TEXT
+  5
+4015
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.2110656216
+ 20
+467957.988290797
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka1
+100
+AcDbText
+ 0
+TEXT
+  5
+4016
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.2110656216
+ 20
+467955.988290797
+ 30
+144.60795117102563
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236026.2111m N: 467957.9883m
+100
+AcDbText
+ 0
+TEXT
+  5
+4017
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.2110656216
+ 20
+467951.988290797
+ 30
+144.60795117102563
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.608m
+100
+AcDbText
+ 0
+POINT
+  5
+4018
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236026.199247833
+20
+467957.9949048273
+30
+144.5944920240715
+ 0
+TEXT
+  5
+4019
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.199247833
+ 20
+467957.9949048273
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka2
+100
+AcDbText
+ 0
+TEXT
+  5
+401a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.199247833
+ 20
+467955.9949048273
+ 30
+144.5944920240715
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236026.1992m N: 467957.9949m
+100
+AcDbText
+ 0
+TEXT
+  5
+401b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236026.199247833
+ 20
+467951.9949048273
+ 30
+144.5944920240715
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5945m
+100
+AcDbText
+ 0
+POINT
+  5
+401c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236021.5668660817
+20
+467957.5068192752
+30
+144.6268860448897
+ 0
+TEXT
+  5
+401d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236021.5668660817
+ 20
+467957.5068192752
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka3
+100
+AcDbText
+ 0
+TEXT
+  5
+401e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236021.5668660817
+ 20
+467955.5068192752
+ 30
+144.6268860448897
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236021.5669m N: 467957.5068m
+100
+AcDbText
+ 0
+TEXT
+  5
+401f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236021.5668660817
+ 20
+467951.5068192752
+ 30
+144.6268860448897
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6269m
+100
+AcDbText
+ 0
+POINT
+  5
+4020
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236021.5592419207
+20
+467957.52971119713
+30
+144.61571338426322
+ 0
+TEXT
+  5
+4021
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236021.5592419207
+ 20
+467957.52971119713
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka4
+100
+AcDbText
+ 0
+TEXT
+  5
+4022
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236021.5592419207
+ 20
+467955.52971119713
+ 30
+144.61571338426322
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236021.5592m N: 467957.5297m
+100
+AcDbText
+ 0
+TEXT
+  5
+4023
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236021.5592419207
+ 20
+467951.52971119713
+ 30
+144.61571338426322
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6157m
+100
+AcDbText
+ 0
+POINT
+  5
+4024
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236015.413127674
+20
+467957.39747688454
+30
+144.5528801523894
+ 0
+TEXT
+  5
+4025
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.413127674
+ 20
+467957.39747688454
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka5
+100
+AcDbText
+ 0
+TEXT
+  5
+4026
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.413127674
+ 20
+467955.39747688454
+ 30
+144.5528801523894
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236015.4131m N: 467957.3975m
+100
+AcDbText
+ 0
+TEXT
+  5
+4027
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.413127674
+ 20
+467951.39747688454
+ 30
+144.5528801523894
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5529m
+100
+AcDbText
+ 0
+POINT
+  5
+4028
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236015.425285819
+20
+467957.3991561495
+30
+144.5494750507921
+ 0
+TEXT
+  5
+4029
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.425285819
+ 20
+467957.3991561495
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka6
+100
+AcDbText
+ 0
+TEXT
+  5
+402a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.425285819
+ 20
+467955.3991561495
+ 30
+144.5494750507921
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236015.4253m N: 467957.3992m
+100
+AcDbText
+ 0
+TEXT
+  5
+402b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236015.425285819
+ 20
+467951.3991561495
+ 30
+144.5494750507921
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5495m
+100
+AcDbText
+ 0
+POINT
+  5
+402c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236012.1709959824
+20
+467960.3267882634
+30
+144.6218284259364
+ 0
+TEXT
+  5
+402d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.1709959824
+ 20
+467960.3267882634
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka7
+100
+AcDbText
+ 0
+TEXT
+  5
+402e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.1709959824
+ 20
+467958.3267882634
+ 30
+144.6218284259364
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236012.171m N: 467960.3268m
+100
+AcDbText
+ 0
+TEXT
+  5
+402f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.1709959824
+ 20
+467954.3267882634
+ 30
+144.6218284259364
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6218m
+100
+AcDbText
+ 0
+POINT
+  5
+4030
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236012.1569974106
+20
+467960.34715045616
+30
+144.6256747769937
+ 0
+TEXT
+  5
+4031
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.1569974106
+ 20
+467960.34715045616
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka8
+100
+AcDbText
+ 0
+TEXT
+  5
+4032
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.1569974106
+ 20
+467958.34715045616
+ 30
+144.6256747769937
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236012.157m N: 467960.3472m
+100
+AcDbText
+ 0
+TEXT
+  5
+4033
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236012.1569974106
+ 20
+467954.34715045616
+ 30
+144.6256747769937
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6257m
+100
+AcDbText
+ 0
+POINT
+  5
+4034
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236013.8477831436
+20
+467966.1690121507
+30
+144.57461048595607
+ 0
+TEXT
+  5
+4035
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.8477831436
+ 20
+467966.1690121507
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka9
+100
+AcDbText
+ 0
+TEXT
+  5
+4036
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.8477831436
+ 20
+467964.1690121507
+ 30
+144.57461048595607
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236013.8478m N: 467966.169m
+100
+AcDbText
+ 0
+TEXT
+  5
+4037
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.8477831436
+ 20
+467960.1690121507
+ 30
+144.57461048595607
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5746m
+100
+AcDbText
+ 0
+POINT
+  5
+4038
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236013.7729932736
+20
+467966.08705256507
+30
+144.5667543553561
+ 0
+TEXT
+  5
+4039
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.7729932736
+ 20
+467966.08705256507
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka10
+100
+AcDbText
+ 0
+TEXT
+  5
+403a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.7729932736
+ 20
+467964.08705256507
+ 30
+144.5667543553561
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236013.773m N: 467966.0871m
+100
+AcDbText
+ 0
+TEXT
+  5
+403b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236013.7729932736
+ 20
+467960.08705256507
+ 30
+144.5667543553561
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.5668m
+100
+AcDbText
+ 0
+POINT
+  5
+403c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236017.4111072086
+20
+467969.2168423962
+30
+144.63091315075755
+ 0
+TEXT
+  5
+403d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.4111072086
+ 20
+467969.2168423962
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka11
+100
+AcDbText
+ 0
+TEXT
+  5
+403e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.4111072086
+ 20
+467967.2168423962
+ 30
+144.63091315075755
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236017.4111m N: 467969.2168m
+100
+AcDbText
+ 0
+TEXT
+  5
+403f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.4111072086
+ 20
+467963.2168423962
+ 30
+144.63091315075755
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6309m
+100
+AcDbText
+ 0
+POINT
+  5
+4040
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236017.382997983
+20
+467969.2156260926
+30
+144.63190873272717
+ 0
+TEXT
+  5
+4041
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.382997983
+ 20
+467969.2156260926
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka12
+100
+AcDbText
+ 0
+TEXT
+  5
+4042
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.382997983
+ 20
+467967.2156260926
+ 30
+144.63190873272717
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236017.383m N: 467969.2156m
+100
+AcDbText
+ 0
+TEXT
+  5
+4043
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236017.382997983
+ 20
+467963.2156260926
+ 30
+144.63190873272717
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6319m
+100
+AcDbText
+ 0
+POINT
+  5
+4044
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236023.6843120884
+20
+467970.2927810997
+30
+144.6443509126827
+ 0
+TEXT
+  5
+4045
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236023.6843120884
+ 20
+467970.2927810997
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka13
+100
+AcDbText
+ 0
+TEXT
+  5
+4046
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236023.6843120884
+ 20
+467968.2927810997
+ 30
+144.6443509126827
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236023.6843m N: 467970.2928m
+100
+AcDbText
+ 0
+TEXT
+  5
+4047
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236023.6843120884
+ 20
+467964.2927810997
+ 30
+144.6443509126827
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6444m
+100
+AcDbText
+ 0
+POINT
+  5
+4048
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2236023.6851914944
+20
+467970.28784181457
+30
+144.61574203826487
+ 0
+TEXT
+  5
+4049
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2236023.6851914944
+ 20
+467970.28784181457
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ besedka14
+100
+AcDbText
+ 0
+TEXT
+  5
+404a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2236023.6851914944
+ 20
+467968.28784181457
+ 30
+144.61574203826487
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2236023.6852m N: 467970.2878m
+100
+AcDbText
+ 0
+TEXT
+  5
+404b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2236023.6851914944
+ 20
+467964.28784181457
+ 30
+144.61574203826487
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.6157m
+100
+AcDbText
+ 0
+POINT
+  5
+404c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235935.8382915957
+20
+467429.92150620185
+30
+144.07885762423277
+ 0
+TEXT
+  5
+404d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235935.8382915957
+ 20
+467429.92150620185
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ rpviktory
+100
+AcDbText
+ 0
+TEXT
+  5
+404e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235935.8382915957
+ 20
+467427.92150620185
+ 30
+144.07885762423277
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235935.8383m N: 467429.9215m
+100
+AcDbText
+ 0
+TEXT
+  5
+404f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235935.8382915957
+ 20
+467423.92150620185
+ 30
+144.07885762423277
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.0789m
+100
+AcDbText
+ 0
+POINT
+  5
+4050
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2235935.830126592
+20
+467429.9216120159
+30
+144.0825545911491
+ 0
+TEXT
+  5
+4051
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2235935.830126592
+ 20
+467429.9216120159
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ rpviktory122222
+100
+AcDbText
+ 0
+TEXT
+  5
+4052
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2235935.830126592
+ 20
+467427.9216120159
+ 30
+144.0825545911491
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2235935.8301m N: 467429.9216m
+100
+AcDbText
+ 0
+TEXT
+  5
+4053
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2235935.830126592
+ 20
+467423.9216120159
+ 30
+144.0825545911491
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 144.0826m
+100
+AcDbText
+ 0
+POINT
+  5
+4054
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228306.294159187
+20
+470361.4073158018
+30
+136.14527221515775
+ 0
+TEXT
+  5
+4055
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228306.294159187
+ 20
+470361.4073158018
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ sputnik
+100
+AcDbText
+ 0
+TEXT
+  5
+4056
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228306.294159187
+ 20
+470359.4073158018
+ 30
+136.14527221515775
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228306.2942m N: 470361.4073m
+100
+AcDbText
+ 0
+TEXT
+  5
+4057
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228306.294159187
+ 20
+470355.4073158018
+ 30
+136.14527221515775
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 136.1453m
+100
+AcDbText
+ 0
+POINT
+  5
+4058
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228309.3511749576
+20
+470358.3921472393
+30
+137.76630590695888
+ 0
+TEXT
+  5
+4059
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228309.3511749576
+ 20
+470358.3921472393
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb
+100
+AcDbText
+ 0
+TEXT
+  5
+405a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228309.3511749576
+ 20
+470356.3921472393
+ 30
+137.76630590695888
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228309.3512m N: 470358.3921m
+100
+AcDbText
+ 0
+TEXT
+  5
+405b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228309.3511749576
+ 20
+470352.3921472393
+ 30
+137.76630590695888
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.7663m
+100
+AcDbText
+ 0
+POINT
+  5
+405c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228309.3523446023
+20
+470358.39430117793
+30
+137.76592441860586
+ 0
+TEXT
+  5
+405d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228309.3523446023
+ 20
+470358.39430117793
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb1
+100
+AcDbText
+ 0
+TEXT
+  5
+405e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228309.3523446023
+ 20
+470356.39430117793
+ 30
+137.76592441860586
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228309.3523m N: 470358.3943m
+100
+AcDbText
+ 0
+TEXT
+  5
+405f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228309.3523446023
+ 20
+470352.39430117793
+ 30
+137.76592441860586
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.7659m
+100
+AcDbText
+ 0
+POINT
+  5
+4060
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228308.6785082994
+20
+470358.473443076
+30
+137.6078457294777
+ 0
+TEXT
+  5
+4061
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228308.6785082994
+ 20
+470358.473443076
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb2
+100
+AcDbText
+ 0
+TEXT
+  5
+4062
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228308.6785082994
+ 20
+470356.473443076
+ 30
+137.6078457294777
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228308.6785m N: 470358.4734m
+100
+AcDbText
+ 0
+TEXT
+  5
+4063
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228308.6785082994
+ 20
+470352.473443076
+ 30
+137.6078457294777
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.6078m
+100
+AcDbText
+ 0
+POINT
+  5
+4064
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228308.6782430643
+20
+470358.47458640486
+30
+137.6117106660083
+ 0
+TEXT
+  5
+4065
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228308.6782430643
+ 20
+470358.47458640486
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb3
+100
+AcDbText
+ 0
+TEXT
+  5
+4066
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228308.6782430643
+ 20
+470356.47458640486
+ 30
+137.6117106660083
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228308.6782m N: 470358.4746m
+100
+AcDbText
+ 0
+TEXT
+  5
+4067
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228308.6782430643
+ 20
+470352.47458640486
+ 30
+137.6117106660083
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.6117m
+100
+AcDbText
+ 0
+POINT
+  5
+4068
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228307.5058430135
+20
+470353.3997962931
+30
+137.59388884741813
+ 0
+TEXT
+  5
+4069
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228307.5058430135
+ 20
+470353.3997962931
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb4
+100
+AcDbText
+ 0
+TEXT
+  5
+406a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228307.5058430135
+ 20
+470351.3997962931
+ 30
+137.59388884741813
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228307.5058m N: 470353.3998m
+100
+AcDbText
+ 0
+TEXT
+  5
+406b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228307.5058430135
+ 20
+470347.3997962931
+ 30
+137.59388884741813
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.5939m
+100
+AcDbText
+ 0
+POINT
+  5
+406c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228307.943179819
+20
+470353.38056962006
+30
+137.68444860007614
+ 0
+TEXT
+  5
+406d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228307.943179819
+ 20
+470353.38056962006
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb
+100
+AcDbText
+ 0
+TEXT
+  5
+406e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228307.943179819
+ 20
+470351.38056962006
+ 30
+137.68444860007614
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228307.9432m N: 470353.3806m
+100
+AcDbText
+ 0
+TEXT
+  5
+406f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228307.943179819
+ 20
+470347.38056962006
+ 30
+137.68444860007614
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.6844m
+100
+AcDbText
+ 0
+POINT
+  5
+4070
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228309.39083328
+20
+470359.2521773409
+30
+136.57919647384435
+ 0
+TEXT
+  5
+4071
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228309.39083328
+ 20
+470359.2521773409
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ vor
+100
+AcDbText
+ 0
+TEXT
+  5
+4072
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228309.39083328
+ 20
+470357.2521773409
+ 30
+136.57919647384435
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228309.3908m N: 470359.2522m
+100
+AcDbText
+ 0
+TEXT
+  5
+4073
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228309.39083328
+ 20
+470353.2521773409
+ 30
+136.57919647384435
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 136.5792m
+100
+AcDbText
+ 0
+POINT
+  5
+4074
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228310.319583359
+20
+470363.061257571
+30
+136.4978157480061
+ 0
+TEXT
+  5
+4075
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228310.319583359
+ 20
+470363.061257571
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ vor1
+100
+AcDbText
+ 0
+TEXT
+  5
+4076
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228310.319583359
+ 20
+470361.061257571
+ 30
+136.4978157480061
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228310.3196m N: 470363.0613m
+100
+AcDbText
+ 0
+TEXT
+  5
+4077
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228310.319583359
+ 20
+470357.061257571
+ 30
+136.4978157480061
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 136.4978m
+100
+AcDbText
+ 0
+POINT
+  5
+4078
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228310.125695652
+20
+470365.00018668827
+30
+137.19780921217054
+ 0
+TEXT
+  5
+4079
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228310.125695652
+ 20
+470365.00018668827
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb
+100
+AcDbText
+ 0
+TEXT
+  5
+407a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228310.125695652
+ 20
+470363.00018668827
+ 30
+137.19780921217054
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228310.1257m N: 470365.0002m
+100
+AcDbText
+ 0
+TEXT
+  5
+407b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228310.125695652
+ 20
+470359.00018668827
+ 30
+137.19780921217054
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.1978m
+100
+AcDbText
+ 0
+POINT
+  5
+407c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228310.1260430724
+20
+470365.0016886303
+30
+137.2005896161124
+ 0
+TEXT
+  5
+407d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228310.1260430724
+ 20
+470365.0016886303
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb1
+100
+AcDbText
+ 0
+TEXT
+  5
+407e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228310.1260430724
+ 20
+470363.0016886303
+ 30
+137.2005896161124
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228310.126m N: 470365.0017m
+100
+AcDbText
+ 0
+TEXT
+  5
+407f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228310.1260430724
+ 20
+470359.0016886303
+ 30
+137.2005896161124
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.2006m
+100
+AcDbText
+ 0
+POINT
+  5
+4080
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228299.299617354
+20
+470365.14593839925
+30
+136.22180224142969
+ 0
+TEXT
+  5
+4081
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228299.299617354
+ 20
+470365.14593839925
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ lep
+100
+AcDbText
+ 0
+TEXT
+  5
+4082
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228299.299617354
+ 20
+470363.14593839925
+ 30
+136.22180224142969
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228299.2996m N: 470365.1459m
+100
+AcDbText
+ 0
+TEXT
+  5
+4083
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228299.299617354
+ 20
+470359.14593839925
+ 30
+136.22180224142969
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 136.2218m
+100
+AcDbText
+ 0
+POINT
+  5
+4084
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228299.0700720926
+20
+470365.20085452124
+30
+137.33857971176505
+ 0
+TEXT
+  5
+4085
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228299.0700720926
+ 20
+470365.20085452124
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ lep1
+100
+AcDbText
+ 0
+TEXT
+  5
+4086
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228299.0700720926
+ 20
+470363.20085452124
+ 30
+137.33857971176505
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228299.0701m N: 470365.2009m
+100
+AcDbText
+ 0
+TEXT
+  5
+4087
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228299.0700720926
+ 20
+470359.20085452124
+ 30
+137.33857971176505
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.3386m
+100
+AcDbText
+ 0
+POINT
+  5
+4088
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228299.5118646375
+20
+470365.2645626776
+30
+137.27952131841332
+ 0
+TEXT
+  5
+4089
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228299.5118646375
+ 20
+470365.2645626776
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ lep2
+100
+AcDbText
+ 0
+TEXT
+  5
+408a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228299.5118646375
+ 20
+470363.2645626776
+ 30
+137.27952131841332
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228299.5119m N: 470365.2646m
+100
+AcDbText
+ 0
+TEXT
+  5
+408b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228299.5118646375
+ 20
+470359.2645626776
+ 30
+137.27952131841332
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.2795m
+100
+AcDbText
+ 0
+POINT
+  5
+408c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228298.3119916143
+20
+470366.01612316724
+30
+137.173835606575
+ 0
+TEXT
+  5
+408d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228298.3119916143
+ 20
+470366.01612316724
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb
+100
+AcDbText
+ 0
+TEXT
+  5
+408e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228298.3119916143
+ 20
+470364.01612316724
+ 30
+137.173835606575
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228298.312m N: 470366.0161m
+100
+AcDbText
+ 0
+TEXT
+  5
+408f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228298.3119916143
+ 20
+470360.01612316724
+ 30
+137.173835606575
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.1738m
+100
+AcDbText
+ 0
+POINT
+  5
+4090
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228290.056917856
+20
+470367.5601453921
+30
+137.5591283331439
+ 0
+TEXT
+  5
+4091
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228290.056917856
+ 20
+470367.5601453921
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb1
+100
+AcDbText
+ 0
+TEXT
+  5
+4092
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228290.056917856
+ 20
+470365.5601453921
+ 30
+137.5591283331439
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228290.0569m N: 470367.5601m
+100
+AcDbText
+ 0
+TEXT
+  5
+4093
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228290.056917856
+ 20
+470361.5601453921
+ 30
+137.5591283331439
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.5591m
+100
+AcDbText
+ 0
+POINT
+  5
+4094
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228277.1755026225
+20
+470372.39292922243
+30
+136.75351929876953
+ 0
+TEXT
+  5
+4095
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228277.1755026225
+ 20
+470372.39292922243
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ zbstvor
+100
+AcDbText
+ 0
+TEXT
+  5
+4096
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228277.1755026225
+ 20
+470370.39292922243
+ 30
+136.75351929876953
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228277.1755m N: 470372.3929m
+100
+AcDbText
+ 0
+TEXT
+  5
+4097
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228277.1755026225
+ 20
+470366.39292922243
+ 30
+136.75351929876953
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 136.7535m
+100
+AcDbText
+ 0
+POINT
+  5
+4098
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228290.663875362
+20
+470370.5571161583
+30
+137.48539840616286
+ 0
+TEXT
+  5
+4099
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228290.663875362
+ 20
+470370.5571161583
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb
+100
+AcDbText
+ 0
+TEXT
+  5
+409a
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228290.663875362
+ 20
+470368.5571161583
+ 30
+137.48539840616286
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228290.6639m N: 470370.5571m
+100
+AcDbText
+ 0
+TEXT
+  5
+409b
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228290.663875362
+ 20
+470364.5571161583
+ 30
+137.48539840616286
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.4854m
+100
+AcDbText
+ 0
+POINT
+  5
+409c
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228290.6666314816
+20
+470370.55327136535
+30
+137.47981448005885
+ 0
+TEXT
+  5
+409d
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228290.6666314816
+ 20
+470370.55327136535
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb1
+100
+AcDbText
+ 0
+TEXT
+  5
+409e
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228290.6666314816
+ 20
+470368.55327136535
+ 30
+137.47981448005885
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228290.6666m N: 470370.5533m
+100
+AcDbText
+ 0
+TEXT
+  5
+409f
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228290.6666314816
+ 20
+470364.55327136535
+ 30
+137.47981448005885
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.4798m
+100
+AcDbText
+ 0
+POINT
+  5
+40a0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228274.7035990367
+20
+470358.22039904445
+30
+136.8289943933487
+ 0
+TEXT
+  5
+40a1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228274.7035990367
+ 20
+470358.22039904445
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ stvzb
+100
+AcDbText
+ 0
+TEXT
+  5
+40a2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228274.7035990367
+ 20
+470356.22039904445
+ 30
+136.8289943933487
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228274.7036m N: 470358.2204m
+100
+AcDbText
+ 0
+TEXT
+  5
+40a3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228274.7035990367
+ 20
+470352.22039904445
+ 30
+136.8289943933487
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 136.829m
+100
+AcDbText
+ 0
+POINT
+  5
+40a4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228274.7023462234
+20
+470358.20385005604
+30
+136.84153979457915
+ 0
+TEXT
+  5
+40a5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228274.7023462234
+ 20
+470358.20385005604
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ stvzb1
+100
+AcDbText
+ 0
+TEXT
+  5
+40a6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228274.7023462234
+ 20
+470356.20385005604
+ 30
+136.84153979457915
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228274.7023m N: 470358.2039m
+100
+AcDbText
+ 0
+TEXT
+  5
+40a7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228274.7023462234
+ 20
+470352.20385005604
+ 30
+136.84153979457915
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 136.8415m
+100
+AcDbText
+ 0
+POINT
+  5
+40a8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228265.431155453
+20
+470372.4150868822
+30
+137.10644857492298
+ 0
+TEXT
+  5
+40a9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228265.431155453
+ 20
+470372.4150868822
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ stolb
+100
+AcDbText
+ 0
+TEXT
+  5
+40aa
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228265.431155453
+ 20
+470370.4150868822
+ 30
+137.10644857492298
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228265.4312m N: 470372.4151m
+100
+AcDbText
+ 0
+TEXT
+  5
+40ab
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228265.431155453
+ 20
+470366.4150868822
+ 30
+137.10644857492298
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.1064m
+100
+AcDbText
+ 0
+POINT
+  5
+40ac
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228265.555540626
+20
+470372.26933956705
+30
+137.00805300846696
+ 0
+TEXT
+  5
+40ad
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228265.555540626
+ 20
+470372.26933956705
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ stolb1
+100
+AcDbText
+ 0
+TEXT
+  5
+40ae
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228265.555540626
+ 20
+470370.26933956705
+ 30
+137.00805300846696
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228265.5555m N: 470372.2693m
+100
+AcDbText
+ 0
+TEXT
+  5
+40af
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228265.555540626
+ 20
+470366.26933956705
+ 30
+137.00805300846696
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.0081m
+100
+AcDbText
+ 0
+POINT
+  5
+40b0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228265.73693996
+20
+470372.4774503708
+30
+136.76056015584618
+ 0
+TEXT
+  5
+40b1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228265.73693996
+ 20
+470372.4774503708
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ stolb2
+100
+AcDbText
+ 0
+TEXT
+  5
+40b2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228265.73693996
+ 20
+470370.4774503708
+ 30
+136.76056015584618
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228265.7369m N: 470372.4775m
+100
+AcDbText
+ 0
+TEXT
+  5
+40b3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228265.73693996
+ 20
+470366.4774503708
+ 30
+136.76056015584618
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 136.7606m
+100
+AcDbText
+ 0
+POINT
+  5
+40b4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228256.521204093
+20
+470374.9680214878
+30
+137.00134573318064
+ 0
+TEXT
+  5
+40b5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228256.521204093
+ 20
+470374.9680214878
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ granicaor
+100
+AcDbText
+ 0
+TEXT
+  5
+40b6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228256.521204093
+ 20
+470372.9680214878
+ 30
+137.00134573318064
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228256.5212m N: 470374.968m
+100
+AcDbText
+ 0
+TEXT
+  5
+40b7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228256.521204093
+ 20
+470368.9680214878
+ 30
+137.00134573318064
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.0013m
+100
+AcDbText
+ 0
+POINT
+  5
+40b8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228259.270687263
+20
+470374.41553785
+30
+136.848468397744
+ 0
+TEXT
+  5
+40b9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228259.270687263
+ 20
+470374.41553785
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb
+100
+AcDbText
+ 0
+TEXT
+  5
+40ba
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228259.270687263
+ 20
+470372.41553785
+ 30
+136.848468397744
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228259.2707m N: 470374.4155m
+100
+AcDbText
+ 0
+TEXT
+  5
+40bb
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228259.270687263
+ 20
+470368.41553785
+ 30
+136.848468397744
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 136.8485m
+100
+AcDbText
+ 0
+POINT
+  5
+40bc
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228259.2785168714
+20
+470374.4280091822
+30
+136.84830790571868
+ 0
+TEXT
+  5
+40bd
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228259.2785168714
+ 20
+470374.4280091822
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb1
+100
+AcDbText
+ 0
+TEXT
+  5
+40be
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228259.2785168714
+ 20
+470372.4280091822
+ 30
+136.84830790571868
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228259.2785m N: 470374.428m
+100
+AcDbText
+ 0
+TEXT
+  5
+40bf
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228259.2785168714
+ 20
+470368.4280091822
+ 30
+136.84830790571868
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 136.8483m
+100
+AcDbText
+ 0
+POINT
+  5
+40c0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228254.0070501687
+20
+470360.60715402104
+30
+136.82046996243298
+ 0
+TEXT
+  5
+40c1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228254.0070501687
+ 20
+470360.60715402104
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb2
+100
+AcDbText
+ 0
+TEXT
+  5
+40c2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228254.0070501687
+ 20
+470358.60715402104
+ 30
+136.82046996243298
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228254.0071m N: 470360.6072m
+100
+AcDbText
+ 0
+TEXT
+  5
+40c3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228254.0070501687
+ 20
+470354.60715402104
+ 30
+136.82046996243298
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 136.8205m
+100
+AcDbText
+ 0
+POINT
+  5
+40c4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228253.8106847685
+20
+470350.90496480186
+30
+137.7109681898728
+ 0
+TEXT
+  5
+40c5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228253.8106847685
+ 20
+470350.90496480186
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ stv
+100
+AcDbText
+ 0
+TEXT
+  5
+40c6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228253.8106847685
+ 20
+470348.90496480186
+ 30
+137.7109681898728
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228253.8107m N: 470350.905m
+100
+AcDbText
+ 0
+TEXT
+  5
+40c7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228253.8106847685
+ 20
+470344.90496480186
+ 30
+137.7109681898728
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.711m
+100
+AcDbText
+ 0
+POINT
+  5
+40c8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228257.6378728165
+20
+470358.9461705992
+30
+139.45732878148556
+ 0
+TEXT
+  5
+40c9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228257.6378728165
+ 20
+470358.9461705992
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ stolb
+100
+AcDbText
+ 0
+TEXT
+  5
+40ca
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228257.6378728165
+ 20
+470356.9461705992
+ 30
+139.45732878148556
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228257.6379m N: 470358.9462m
+100
+AcDbText
+ 0
+TEXT
+  5
+40cb
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228257.6378728165
+ 20
+470352.9461705992
+ 30
+139.45732878148556
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 139.4573m
+100
+AcDbText
+ 0
+POINT
+  5
+40cc
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228257.633543781
+20
+470359.4263852574
+30
+139.41186791285872
+ 0
+TEXT
+  5
+40cd
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228257.633543781
+ 20
+470359.4263852574
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ stolb1
+100
+AcDbText
+ 0
+TEXT
+  5
+40ce
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228257.633543781
+ 20
+470357.4263852574
+ 30
+139.41186791285872
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228257.6335m N: 470359.4264m
+100
+AcDbText
+ 0
+TEXT
+  5
+40cf
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228257.633543781
+ 20
+470353.4263852574
+ 30
+139.41186791285872
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 139.4119m
+100
+AcDbText
+ 0
+POINT
+  5
+40d0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228257.529846873
+20
+470359.1465973463
+30
+139.52329200599343
+ 0
+TEXT
+  5
+40d1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228257.529846873
+ 20
+470359.1465973463
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ stolb2
+100
+AcDbText
+ 0
+TEXT
+  5
+40d2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228257.529846873
+ 20
+470357.1465973463
+ 30
+139.52329200599343
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228257.5298m N: 470359.1466m
+100
+AcDbText
+ 0
+TEXT
+  5
+40d3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228257.529846873
+ 20
+470353.1465973463
+ 30
+139.52329200599343
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 139.5233m
+100
+AcDbText
+ 0
+POINT
+  5
+40d4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228240.6682101404
+20
+470371.25347506534
+30
+137.88235717266798
+ 0
+TEXT
+  5
+40d5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228240.6682101404
+ 20
+470371.25347506534
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ ud
+100
+AcDbText
+ 0
+TEXT
+  5
+40d6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228240.6682101404
+ 20
+470369.25347506534
+ 30
+137.88235717266798
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228240.6682m N: 470371.2535m
+100
+AcDbText
+ 0
+TEXT
+  5
+40d7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228240.6682101404
+ 20
+470365.25347506534
+ 30
+137.88235717266798
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.8824m
+100
+AcDbText
+ 0
+POINT
+  5
+40d8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228239.8846777137
+20
+470365.0673751114
+30
+137.84587146155536
+ 0
+TEXT
+  5
+40d9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228239.8846777137
+ 20
+470365.0673751114
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ ud1
+100
+AcDbText
+ 0
+TEXT
+  5
+40da
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228239.8846777137
+ 20
+470363.0673751114
+ 30
+137.84587146155536
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228239.8847m N: 470365.0674m
+100
+AcDbText
+ 0
+TEXT
+  5
+40db
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228239.8846777137
+ 20
+470359.0673751114
+ 30
+137.84587146155536
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.8459m
+100
+AcDbText
+ 0
+POINT
+  5
+40dc
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228244.1481548618
+20
+470364.27603738103
+30
+137.7503728987649
+ 0
+TEXT
+  5
+40dd
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228244.1481548618
+ 20
+470364.27603738103
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ ud2
+100
+AcDbText
+ 0
+TEXT
+  5
+40de
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228244.1481548618
+ 20
+470362.27603738103
+ 30
+137.7503728987649
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228244.1482m N: 470364.276m
+100
+AcDbText
+ 0
+TEXT
+  5
+40df
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228244.1481548618
+ 20
+470358.27603738103
+ 30
+137.7503728987649
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.7504m
+100
+AcDbText
+ 0
+POINT
+  5
+40e0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228245.0757257673
+20
+470370.8033845676
+30
+137.9483320787549
+ 0
+TEXT
+  5
+40e1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228245.0757257673
+ 20
+470370.8033845676
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ ud3
+100
+AcDbText
+ 0
+TEXT
+  5
+40e2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228245.0757257673
+ 20
+470368.8033845676
+ 30
+137.9483320787549
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228245.0757m N: 470370.8034m
+100
+AcDbText
+ 0
+TEXT
+  5
+40e3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228245.0757257673
+ 20
+470364.8033845676
+ 30
+137.9483320787549
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.9483m
+100
+AcDbText
+ 0
+POINT
+  5
+40e4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228230.099906572
+20
+470381.0175062157
+30
+137.2628435017541
+ 0
+TEXT
+  5
+40e5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228230.099906572
+ 20
+470381.0175062157
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ stvzab
+100
+AcDbText
+ 0
+TEXT
+  5
+40e6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228230.099906572
+ 20
+470379.0175062157
+ 30
+137.2628435017541
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228230.0999m N: 470381.0175m
+100
+AcDbText
+ 0
+TEXT
+  5
+40e7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228230.099906572
+ 20
+470375.0175062157
+ 30
+137.2628435017541
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.2628m
+100
+AcDbText
+ 0
+POINT
+  5
+40e8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228220.5261935014
+20
+470382.6513499487
+30
+137.10270419251174
+ 0
+TEXT
+  5
+40e9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228220.5261935014
+ 20
+470382.6513499487
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ lepuk
+100
+AcDbText
+ 0
+TEXT
+  5
+40ea
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228220.5261935014
+ 20
+470380.6513499487
+ 30
+137.10270419251174
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228220.5262m N: 470382.6513m
+100
+AcDbText
+ 0
+TEXT
+  5
+40eb
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228220.5261935014
+ 20
+470376.6513499487
+ 30
+137.10270419251174
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.1027m
+100
+AcDbText
+ 0
+POINT
+  5
+40ec
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228216.5836508884
+20
+470382.9636348272
+30
+137.41403626743704
+ 0
+TEXT
+  5
+40ed
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228216.5836508884
+ 20
+470382.9636348272
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ lep
+100
+AcDbText
+ 0
+TEXT
+  5
+40ee
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228216.5836508884
+ 20
+470380.9636348272
+ 30
+137.41403626743704
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228216.5837m N: 470382.9636m
+100
+AcDbText
+ 0
+TEXT
+  5
+40ef
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228216.5836508884
+ 20
+470376.9636348272
+ 30
+137.41403626743704
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.414m
+100
+AcDbText
+ 0
+POINT
+  5
+40f0
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228216.441163502
+20
+470383.133923213
+30
+137.32396450266242
+ 0
+TEXT
+  5
+40f1
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228216.441163502
+ 20
+470383.133923213
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ lep1
+100
+AcDbText
+ 0
+TEXT
+  5
+40f2
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228216.441163502
+ 20
+470381.133923213
+ 30
+137.32396450266242
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228216.4412m N: 470383.1339m
+100
+AcDbText
+ 0
+TEXT
+  5
+40f3
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228216.441163502
+ 20
+470377.133923213
+ 30
+137.32396450266242
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.324m
+100
+AcDbText
+ 0
+POINT
+  5
+40f4
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228208.8552985513
+20
+470365.8486884516
+30
+137.761934382841
+ 0
+TEXT
+  5
+40f5
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228208.8552985513
+ 20
+470365.8486884516
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb
+100
+AcDbText
+ 0
+TEXT
+  5
+40f6
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228208.8552985513
+ 20
+470363.8486884516
+ 30
+137.761934382841
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228208.8553m N: 470365.8487m
+100
+AcDbText
+ 0
+TEXT
+  5
+40f7
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228208.8552985513
+ 20
+470359.8486884516
+ 30
+137.761934382841
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.7619m
+100
+AcDbText
+ 0
+POINT
+  5
+40f8
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228208.9031845117
+20
+470365.7997335186
+30
+137.7410490764305
+ 0
+TEXT
+  5
+40f9
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228208.9031845117
+ 20
+470365.7997335186
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzbrazd
+100
+AcDbText
+ 0
+TEXT
+  5
+40fa
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228208.9031845117
+ 20
+470363.7997335186
+ 30
+137.7410490764305
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228208.9032m N: 470365.7997m
+100
+AcDbText
+ 0
+TEXT
+  5
+40fb
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228208.9031845117
+ 20
+470359.7997335186
+ 30
+137.7410490764305
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.741m
+100
+AcDbText
+ 0
+POINT
+  5
+40fc
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228209.0282376595
+20
+470368.244843984
+30
+137.50153947621584
+ 0
+TEXT
+  5
+40fd
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228209.0282376595
+ 20
+470368.244843984
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb
+100
+AcDbText
+ 0
+TEXT
+  5
+40fe
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228209.0282376595
+ 20
+470366.244843984
+ 30
+137.50153947621584
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228209.0282m N: 470368.2448m
+100
+AcDbText
+ 0
+TEXT
+  5
+40ff
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228209.0282376595
+ 20
+470362.244843984
+ 30
+137.50153947621584
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.5015m
+100
+AcDbText
+ 0
+POINT
+  5
+4100
+330
+1F
+100
+AcDbEntity
+8
+Survey.td2
+100
+AcDbPoint
+10
+2228210.2628041
+20
+470385.5061524119
+30
+137.727757204324
+ 0
+TEXT
+  5
+4101
+330
+1F
+100
+AcDbEntity
+  8
+Survey.td2_Mark
+  7
+Standard
+100
+AcDbText
+ 10
+2228210.2628041
+ 20
+470385.5061524119
+ 30
+0.0
+ 40
+1.0
+ 50
+0.0
+ 1
+ uzb1
+100
+AcDbText
+ 0
+TEXT
+  5
+4102
+330
+1F
+100
+AcDbEntity
+  8
+Positions
+ 62
+7
+  7
+Standard
+100
+AcDbText
+ 10
+2228210.2628041
+ 20
+470383.5061524119
+ 30
+137.727757204324
+ 40
+1.0
+ 50
+0.0
+ 1
+ E: 2228210.2628m N: 470385.5062m
+100
+AcDbText
+ 0
+TEXT
+  5
+4103
+330
+1F
+100
+AcDbEntity
+  8
+Heights
+ 62
+24
+  7
+Standard
+100
+AcDbText
+ 10
+2228210.2628041
+ 20
+470379.5061524119
+ 30
+137.727757204324
+ 40
+1.0
+ 50
+0.0
+ 1
+ H: 137.7278m
+100
+AcDbText
+0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_COLOR
+350
+6B
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MATERIAL
+350
+6A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+ACDBHEADERROUNDTRIPXREC
+350
+3F0E
+  3
+AcDbVariableDictionary
+350
+5E
+  0
+DICTIONARY
+  5
+6B
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Model
+350
+22
+  3
+Layout1
+350
+51
+  3
+Layout2
+350
+56
+  0
+DICTIONARY
+  5
+6A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+3F0E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+COLORDICT
+350
+3F10
+  3
+MATERIALDICT
+350
+3F0F
+  0
+DICTIONARY
+  5
+5E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+DIMASSOC
+350
+5F
+  3
+HIDETEXT
+350
+63
+  3
+PROJECTNAME
+350
+3F0C
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_XDICTIONARY
+360
+3F11
+102
+}
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+ANSI_A_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+19.04999923706055
+ 42
+6.350006103515625
+ 43
+19.04998779296875
+ 44
+215.8999938964844
+ 45
+279.3999938964844
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+78.436453180766
+ 70
+ 11952
+ 72
+     0
+ 73
+     1
+ 74
+     0
+  7
+
+ 75
+     0
+147
+0.0127491741332998
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+  0
+LAYOUT
+  5
+51
+102
+{ACAD_XDICTIONARY
+360
+3F13
+102
+}
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+None
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+50
+  0
+LAYOUT
+  5
+56
+102
+{ACAD_XDICTIONARY
+360
+3F15
+102
+}
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+None
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+55
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+6F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+XRECORD
+  5
+3F10
+102
+{ACAD_REACTORS
+330
+3F0E
+102
+}
+330
+3F0E
+100
+AcDbXrecord
+280
+     1
+340
+6B
+  0
+XRECORD
+  5
+3F0F
+102
+{ACAD_REACTORS
+330
+3F0E
+102
+}
+330
+3F0E
+100
+AcDbXrecord
+280
+     1
+340
+6A
+  0
+DICTIONARYVAR
+  5
+5F
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+63
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+DICTIONARYVAR
+  5
+3F0C
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+
+  0
+DICTIONARY
+  5
+3F11
+330
+22
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+3F12
+  0
+DICTIONARY
+  5
+3F13
+330
+51
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+3F14
+  0
+DICTIONARY
+  5
+3F15
+330
+56
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+3F16
+  0
+XRECORD
+  5
+3F12
+102
+{ACAD_REACTORS
+330
+3F11
+102
+}
+330
+3F11
+100
+AcDbXrecord
+280
+     1
+102
+SHADEPLOT
+ 70
+     0
+102
+SHADEPLOTRESLEVEL
+ 70
+     2
+102
+SHADEPLOTCUSTOMDPI
+ 70
+   300
+  0
+XRECORD
+  5
+3F14
+102
+{ACAD_REACTORS
+330
+3F13
+102
+}
+330
+3F13
+100
+AcDbXrecord
+280
+     1
+102
+SHADEPLOT
+ 70
+     0
+102
+SHADEPLOTRESLEVEL
+ 70
+     2
+102
+SHADEPLOTCUSTOMDPI
+ 70
+   300
+  0
+XRECORD
+  5
+3F16
+102
+{ACAD_REACTORS
+330
+3F15
+102
+}
+330
+3F15
+100
+AcDbXrecord
+280
+     1
+102
+SHADEPLOT
+ 70
+     0
+102
+SHADEPLOTRESLEVEL
+ 70
+     2
+102
+SHADEPLOTCUSTOMDPI
+ 70
+   300
+  0
+ENDSEC
+  0
+EOF
