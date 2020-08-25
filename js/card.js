@@ -31,11 +31,11 @@ template.innerHTML = `
     }
 
     .card-stats-likes {
-        background: url(./image/heart.png) no-repeat left center;
+        background: url(https://alexeymazheykin.github.io/shop/image/heart.png) no-repeat left center;
     }
 
     .card-stats-comm {
-        background: url(./image/comment.png) no-repeat left center;
+        background: url(https://alexeymazheykin.github.io/shop/image/comment.png) no-repeat left center;
     }
 
     .card-pic {
