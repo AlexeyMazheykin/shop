@@ -1,6 +1,5 @@
 const template = document.createElement('template');
 template.innerHTML = `
-<link rel="stylesheet" href="../css/reset.css">
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
@@ -32,11 +31,11 @@ template.innerHTML = `
     }
 
     .card-stats-likes {
-        background: url(../image/heart.png) no-repeat left center;
+        background: url(./image/heart.png) no-repeat left center;
     }
 
     .card-stats-comm {
-        background: url(../image/comment.png) no-repeat left center;
+        background: url(./image/comment.png) no-repeat left center;
     }
 
     .card-pic {
