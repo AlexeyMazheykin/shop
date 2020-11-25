@@ -272,12 +272,12 @@ card-component {
     font-weight: 600;
     font-size: 15px;
     color: #333333;
+    transform: scale(1);
     transition: all 0.2s;
 }
 
 .showcase__item-selected {
-    font-size: 20px;
-    letter-spacing: 0.5px;
+    transform: scale(1.3);
     color: #8d83f9;
     outline: 0;
     outline-offset: 0;
